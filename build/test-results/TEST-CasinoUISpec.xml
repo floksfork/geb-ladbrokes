@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CasinoUISpec" tests="14" skipped="0" failures="0" errors="0" timestamp="2015-06-03T18:13:17" hostname="magic-box" time="64.701">
+  <properties/>
+  <testcase name="Open home page" classname="CasinoUISpec" time="24.767"/>
+  <testcase name="'Contact-us' is displayed" classname="CasinoUISpec" time="17.467"/>
+  <testcase name="'Help' is displayed" classname="CasinoUISpec" time="0.537"/>
+  <testcase name="'Date &amp; Time' is displayed" classname="CasinoUISpec" time="0.529"/>
+  <testcase name="'Lang-selector' is displayed" classname="CasinoUISpec" time="1.35"/>
+  <testcase name="'Logo' is displayed" classname="CasinoUISpec" time="1.064"/>
+  <testcase name="'Banking' is displayed" classname="CasinoUISpec" time="0.413"/>
+  <testcase name="'Username' is displayed" classname="CasinoUISpec" time="7.661"/>
+  <testcase name="'Password' is displayed" classname="CasinoUISpec" time="7.731"/>
+  <testcase name="'Login-button' is displayed" classname="CasinoUISpec" time="0.561"/>
+  <testcase name="'Join-button' is displayed" classname="CasinoUISpec" time="0.379"/>
+  <testcase name="'Forgot-password-link' is displayed" classname="CasinoUISpec" time="0.401"/>
+  <testcase name="'Search-games' is displayed" classname="CasinoUISpec" time="0.782"/>
+  <testcase name="current page is casino" classname="CasinoUISpec" time="1.057"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

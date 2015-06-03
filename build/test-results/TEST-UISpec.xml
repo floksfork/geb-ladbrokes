@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UISpec" tests="12" skipped="0" failures="0" errors="0" timestamp="2015-06-03T17:12:16" hostname="magic-box" time="30.569">
+  <properties/>
+  <testcase name="Open home page" classname="UISpec" time="16.52"/>
+  <testcase name="'Contact-us' is displayed" classname="UISpec" time="2.336"/>
+  <testcase name="'Help' is displayed" classname="UISpec" time="0.598"/>
+  <testcase name="'Date &amp; Time' is displayed" classname="UISpec" time="0.671"/>
+  <testcase name="'Lang-selector' is displayed" classname="UISpec" time="0.635"/>
+  <testcase name="'Logo' is displayed" classname="UISpec" time="0.581"/>
+  <testcase name="'Banking' is displayed" classname="UISpec" time="0.415"/>
+  <testcase name="'Username' is displayed" classname="UISpec" time="3.826"/>
+  <testcase name="'Password' is displayed" classname="UISpec" time="3.635"/>
+  <testcase name="'Login-button' is displayed" classname="UISpec" time="0.552"/>
+  <testcase name="'Join-button' is displayed" classname="UISpec" time="0.408"/>
+  <testcase name="'Forgot-password-link' is displayed" classname="UISpec" time="0.389"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

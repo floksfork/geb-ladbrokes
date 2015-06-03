@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VegasUISpec" tests="14" skipped="0" failures="0" errors="0" timestamp="2015-06-03T18:10:30" hostname="magic-box" time="27.044">
+  <properties/>
+  <testcase name="Open home page" classname="VegasUISpec" time="16.396"/>
+  <testcase name="'Contact-us' is displayed" classname="VegasUISpec" time="1.633"/>
+  <testcase name="'Help' is displayed" classname="VegasUISpec" time="0.401"/>
+  <testcase name="'Date &amp; Time' is displayed" classname="VegasUISpec" time="0.407"/>
+  <testcase name="'Lang-selector' is displayed" classname="VegasUISpec" time="0.502"/>
+  <testcase name="'Logo' is displayed" classname="VegasUISpec" time="0.514"/>
+  <testcase name="'Banking' is displayed" classname="VegasUISpec" time="0.275"/>
+  <testcase name="'Username' is displayed" classname="VegasUISpec" time="2.577"/>
+  <testcase name="'Password' is displayed" classname="VegasUISpec" time="2.54"/>
+  <testcase name="'Login-button' is displayed" classname="VegasUISpec" time="0.384"/>
+  <testcase name="'Join-button' is displayed" classname="VegasUISpec" time="0.293"/>
+  <testcase name="'Forgot-password-link' is displayed" classname="VegasUISpec" time="0.29"/>
+  <testcase name="'Search-games' is displayed" classname="VegasUISpec" time="0.491"/>
+  <testcase name="current page is vegas" classname="VegasUISpec" time="0.34"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
